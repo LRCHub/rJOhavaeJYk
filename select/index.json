@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Chains (Remastered 2009)",
+  "base_artist": "The Beatles",
+  "createdAt": "2026-03-10T14:47:05.937500Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Man in Chains (Remastered)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/01_Man_in_Chains_(Remastered)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soul In Chains (Remastered 2002)",
+      "artist": "The Sensational Alex Harvey Band",
+      "has_synced": true,
+      "path": "select/02_Soul_In_Chains_(Remastered_2002)_The_Sensational_Alex_Harvey_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Chains - Remastered 2009",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/03_Chains_-_Remastered_2009_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chains (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/04_Chains_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tied in Bronze Chains (Remastered Version)",
+      "artist": "Satyricon",
+      "has_synced": false,
+      "path": "select/05_Tied_in_Bronze_Chains_(Remastered_Version)_Satyricon.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Breaking the Chains (Remastered)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/06_Breaking_the_Chains_(Remastered)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Chains (Remastered)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/07_Chains_(Remastered)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shackles and Chains (Remastered)",
+      "artist": "Marty Robbins",
+      "has_synced": false,
+      "path": "select/08_Shackles_and_Chains_(Remastered)_Marty_Robbins.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shackles and Chains (Remastered 2014)",
+      "artist": "Marty Robbins",
+      "has_synced": false,
+      "path": "select/09_Shackles_and_Chains_(Remastered_2014)_Marty_Robbins.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Chains (Remastered 2009)",
+      "artist": "Beatles",
+      "has_synced": true,
+      "path": "select/10_Chains_(Remastered_2009)_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Soul In Chains (Remastered 2002)",
+      "artist": "The Sensational Alex Harvey Band",
+      "has_synced": true,
+      "path": "select/11_Soul_In_Chains_(Remastered_2002)_The_Sensational_Alex_Harvey_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bound in Chains (Remastered)",
+      "artist": "Kataklysm",
+      "has_synced": false,
+      "path": "select/12_Bound_in_Chains_(Remastered)_Kataklysm.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Chains (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/13_Chains_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Breaking The Chains (Remastered LP Version)",
+      "artist": "Dokken",
+      "has_synced": false,
+      "path": "select/14_Breaking_The_Chains_(Remastered_LP_Version)_Dokken.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Chains (Remastered 2009)",
+      "artist": "The Beatles",
+      "has_synced": true,
+      "path": "select/15_Chains_(Remastered_2009)_The_Beatles.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I'd Rather Be a Cowboy (Lady's Chains) (Remastered)",
+      "artist": "John Denver",
+      "has_synced": false,
+      "path": "select/16_I'd_Rather_Be_a_Cowboy_(Lady's_Chains)_(Remastered)_John_Denver.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CHAINS",
+      "artist": "The Beatles",
+      "has_synced": false,
+      "path": "select/pl_01_CHAINS_The_Beatles.txt"
+    }
+  ]
+}
